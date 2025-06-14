@@ -6,7 +6,10 @@ tags:
 title: Thoughts on Minecraft from a Long-Time Player
 ---
 
+<details>
+<summary>Table of Contents</summary>
 [TOC]
+</details>
 
 ## I ❤️ Minecraft
 
