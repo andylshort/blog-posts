@@ -6,7 +6,9 @@ tags:
 title: Thoughts on Minecraft from a Long-Time Player
 ---
 
-## I ❤ Minecraft {#i-love-minecraft}
+[TOC]
+
+## I ❤ Minecraft
 
 Don't misread my intentions of this post: I love Minecraft, I've put more hours into and made more many memories in this game than I have any other. The problems I highlight and suggestions put forward come from a place of love to make the game that much more fun and exciting to play.
 
